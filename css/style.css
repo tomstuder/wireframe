@@ -1,0 +1,28 @@
+.container {
+  border: 2px solid black;
+}
+
+.fix {
+  padding: 0px;
+  margin: 0px;
+  margin-bottom: 10px;
+}
+
+.wire {
+  background: #e2e2e2 url("../img/x-img.png");
+  background-size: contain;
+}
+
+h1 {
+  color: red;
+}
+
+img {
+  border: 2px solid black;
+  background-color: gray;
+  padding: 0px;
+}
+
+footer {
+  border-top: 1px solid black;
+}
